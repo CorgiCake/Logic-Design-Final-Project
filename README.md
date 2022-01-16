@@ -8,7 +8,7 @@
 
 ---
 ## 示範影片
-*[示範影片連結](https://youtu.be/SH1grgiGaM4)
+* [操作影片連結](https://youtu.be/SH1grgiGaM4)
 
 
 ## 語言環境
