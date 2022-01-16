@@ -7,6 +7,9 @@
 ### 109321053 資工二 繆亭霄
 
 ---
+## 示範影片
+*[示範影片連結](https://youtu.be/SH1grgiGaM4)
+
 
 ## 語言環境
 * 語言：SystemVerilog
