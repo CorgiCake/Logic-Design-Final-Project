@@ -9,6 +9,7 @@
 ---
 ## 示範影片
 * [操作影片連結](https://youtu.be/SH1grgiGaM4)
+  ![image](https://github.com/CorgiCake/Logic-Design-Final-Project/blob/main/final.jpeg)
 
 
 ## 語言環境
